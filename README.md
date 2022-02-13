@@ -16,7 +16,7 @@ Even though many facts may argue against it I first want to clarify here that **
 I want my GitHub to represent my interest in game development, computational arts and ... apparently [BTS](https://github.com/sereneWarrior/D3-BTS-Word-Distributions)❤️.
 
 -------------
-## Kinds of projects I would like to work on one day (but probebly my life won't be long enough to do so):
+## Kinds of projects I would like to work on one day (..but probably my life won't be long enough to do so):
 
 - Awesome, epic, history themed adventure game
 - Painting or 3D graphic application
